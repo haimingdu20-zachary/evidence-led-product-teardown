@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品证据拆解"
+  short_description: "基于页面证据拆解用户旅程、Agent 契约与功能等价 Prompt"
+  default_prompt: "使用 $evidence-led-product-teardown 基于产品操作截图完成证据化拆解。"
